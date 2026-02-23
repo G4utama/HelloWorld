@@ -7,6 +7,5 @@ int main() {
     return 0;
 }
 
-// input: g++ HelloWorld.cpp -o HelloWorld.out
-// input: ./HelloWorld.out
+// input: g++ HelloWorld.cpp -o HelloWorld.out && ./HelloWorld.out
 // output: Hello, World!

@@ -6,5 +6,5 @@ public class HelloWorld {
     }
 }
 
-// input: javac HelloWorld.java
-// input: java HelloWorld
+// input: javac HelloWorld.java && java HelloWorld
+// output: Hello, World!
